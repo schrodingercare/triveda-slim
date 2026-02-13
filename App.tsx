@@ -38,7 +38,7 @@ const App: React.FC = () => {
             <div className="space-y-2 text-sm sm:text-base">
               <p className="font-bold text-yellow-400">Support available via WhatsApp</p>
               <p className="opacity-80">
-                Phone: <a href="tel:8980893196" className="hover:text-yellow-400 transition-colors">8980893196</a>
+                Phone: <a href="tel:8980893154" className="hover:text-yellow-400 transition-colors">8980893154</a>
               </p>
             </div>
           </div>
